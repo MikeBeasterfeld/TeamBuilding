@@ -1,3 +1,3 @@
-# TeamBuilding
+# Team Building
 
 * [Games](games.md)
