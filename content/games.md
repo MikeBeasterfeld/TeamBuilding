@@ -1,10 +1,10 @@
 # Games
 
 ## Group
-* murdle.com
-* geoguesser
-
-
+[Murdle](https://murdle.com/)
+* Logic puzzles to find the murderer, location, and weapon.
+[Geoguesser](https://www.geoguessr.com/)
+* GeoGuessr is a geography game, in which you are dropped somewhere in the world in a street view panorama and your mission is to find clues and guess your location on the world map.
 
 ## 4 Players
 [Codenames](https://codenames.game/)
