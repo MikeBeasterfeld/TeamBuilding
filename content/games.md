@@ -32,7 +32,7 @@
 * Divide evenly into two teams - red and blue. Chose one play per team to join as the **Spymaster**.  Other players join as **Operatives**. Spymasters give one-word clues to their operatives, trying to associate as many of team's words as possible.  The team who first guesses all their words wins. [How to Play (YouTube)](https://www.youtube.com/watch?v=J8RWBooJivg)
 
 ## Up to 5 Players
-[](https://www.weavr.cc/)
+[Weavr](https://www.weavr.cc/)
 * Players anonymously share whimsical answers to prompts about their team and culture. (8 players with Pro)
 
 ## Up to 20 Players
