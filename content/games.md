@@ -1,6 +1,6 @@
 # Games
 
-## Group
+## Group (One participant shares screen)
 [Murdle](https://murdle.com/)
 * Logic puzzles to find the murderer, location, and weapon.
 
