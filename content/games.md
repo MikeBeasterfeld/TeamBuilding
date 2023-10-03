@@ -12,6 +12,9 @@
 [NYT Connections](https://www.nytimes.com/games/connections)
 * Find groups of four items that have something in common.
 
+[Connections Unlimited](https://connectionsgame.io/connections-nyt)
+* Find groups of four items that have something in common (without limits).
+
 [Metazooa](https://metazooa.com/)
 * The animal kingdom (Metazoa, in Greek) is full of our distant relatives... some more distant than others. This game is about finding out how similar any 2 species of animal are to each other.
 
