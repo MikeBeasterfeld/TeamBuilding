@@ -30,6 +30,9 @@
 [Fridge Magnets](https://playingcards.io/game/fridge-magnets)
 * Just like the white refrigerator magnets with words on them, this page allows you to move around word magnets to make sentences.
 
+[Jumblie](https://jumblie.com/)
+* A word search game. There are exactly four words hidden amongst the letters, and all letters are used exactly once. The words will always be between 4 and 9 letters long.
+
 ## 4 Players
 [Codenames](https://codenames.game/)
 * Divide evenly into two teams - red and blue. Chose one play per team to join as the **Spymaster**.  Other players join as **Operatives**. Spymasters give one-word clues to their operatives, trying to associate as many of team's words as possible.  The team who first guesses all their words wins. [How to Play (YouTube)](https://www.youtube.com/watch?v=J8RWBooJivg)
