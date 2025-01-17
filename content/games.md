@@ -41,6 +41,11 @@
 [Weavr](https://www.weavr.cc/)
 * Players anonymously share whimsical answers to prompts about their team and culture. (8 players with Pro)
 
+## Up to 10 Players
+[Wiki Race](https://www.wiki-race.com/)
+* Find a route from one Wiki page to another the fastest
+
+
 ## Up to 20 Players
 [skribbl.io](https://skribbl.io/)
 * skribbl.io is a free online multiplayer drawing and guessing pictionary game.
